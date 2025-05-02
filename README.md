@@ -121,8 +121,3 @@ VerbaJS is licensed under the **MIT License**. You are free to use, modify, and 
 ## Contributing 🤝
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
-
-## Links 🔗
-
-- GitHub: [https://github.com/your-username/verbaJS](https://github.com/your-username/verbaJS)
-- Documentation: [Read the full documentation](https://github.com/your-username/verbaJS/wiki)
